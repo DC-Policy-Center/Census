@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 import pandas as pd
-
+from ggplot import *
 
 ### data importing from cleaned csv ###
 cleaned_income_data = pd.read_csv('homeowner_income_data.csv')
@@ -99,4 +99,13 @@ fit_and_plot(years,income_upper_75_to_any,3)
 
 
 ### Showing figure ####
-plt.show()
+#plt.show()
+
+
+
+p = ggplot(cleaned_income_data,aes(x='years', y='income_75_to_any'))
+p + geom_point()
+p + geom_point(cleaned_income_data,aes('income_0_to_49'))
+
+
+print(p)
