@@ -1,0 +1,38 @@
+name,variable
+Total population,B01001_001E
+White alone,B02001_002E
+Highschool,B15003_017E
+GED,B15003_018E
+"Some college, fewer than 1 years",B15003_019E
+"Some college, 1 ore more years",B15003_020E
+associates,B15003_021E
+college grad,B15003_022E
+Professional degree,B15003_024E
+Masters,B15003_023E
+post grad,B15003_025E
+Place of work total,B08007_001E
+Work in state,B08007_002E
+Work in county,B08007_003E
+Work Out state,B08007_005E
+Work out county,B08007_004E
+Income in the past 12 months below poverty,B17001_002E
+Under 10k,B19001_002E
+"10 to 14,999",B19001_003E
+"15 to 19,999",B19001_004E
+20 to 24,B19001_005E
+25 to 30,B19001_006E
+"30 to 34,999",B19001_007E
+35 to 39,B19001_008E
+40 to 44,B19001_009E
+44 to 49,B19001_010E
+50 to 59,B19001_011E
+60 to 74,B19001_012E
+75 to 99,B19001_013E
+100 to 124,B19001_014E
+125 to 149,B19001_015E
+150 to 199,B19001_016E
+200 +,B19001_017E
+Median HH income,B19013_001E
+M HH income white,B19013A_001E
+Median HH income black,B19013B_001E
+Median HH income hispanic,B19013I_001E
