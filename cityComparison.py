@@ -20,7 +20,7 @@ def pull_variable_data(yr,state,var):
     for i in range(len(d_json)):
         d_list_val = [d_json[i][0],d_json[i][1],d_json[i][2]]
         d_list.append(d_list_val)
-        
+
         if i > 0:
             d_list_csv = d_json[i][0] + ',' + d_json[i][1]+','+d_json[i][2]
             d_csv.append(d_list_val)
@@ -34,7 +34,9 @@ new_headers = []
 initial_headers = ['NAME','state']
 for h in initial_headers:new_headers.append(h)
 for hh in list(var_list['name']): new_headers.append(hh)
-
+with open('census_key.txt','r') as key_file:
+    census_key = key_file.read()
+census_key = census_key.rstrip('\n')
 
 j = 0
 for j in range(len(var_list)):

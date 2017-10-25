@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 import pandas as pd
 import seaborn as sns
+import mpld3 as mpl
 sns.set(color_codes=True)
 sns.set_style(style='white',)
 
@@ -76,7 +77,7 @@ ax.get_xaxis().get_major_formatter().set_useOffset(False)  # This changes the x 
 plt.axis = years
 sns.despine()
 
-plt.figure()
+fig = plt.figure()
 ax2 = plt.gca()
 ax2.get_xaxis().get_major_formatter().set_useOffset(False)  # This changes the x axis to show the year not sci-notation
 plt.axis = years
@@ -121,9 +122,14 @@ total_ownership_err = [3730,3200,3138,3228,3304,3030,3152]
 ax2.errorbar(years,total_ownership,color='#BECCDA',yerr=total_ownership_err,fmt='o')
 fit_and_plot(years,total_ownership,2,ax2)
 sns.despine()
-plt.show()
+
+#plt.show()
 
 
 
 handles2, labels2 = ax2.get_legend_handles_labels()
 ax2.legend(handles2, labels2)
+
+code = mpl.fig_to_html(fig)
+
+
