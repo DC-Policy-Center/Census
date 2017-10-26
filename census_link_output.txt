@@ -1,0 +1,5 @@
+<li><a href ='https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/B19013/0400000US11'>B19013</a>: Median household income in the past 12 months (in 2015 inflation-adjusted dollars)</li>
+<li><a href ='https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/B08201/0400000US11'>B08201</a>: Household size by vehicles avaliable</li>
+<li><a href ='https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/B08141/0400000US11'>B08141</a>: Means of transportation to work by vehicles avaliable</li>
+<li><a href ='https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/B02001/0400000US11'>B02001</a>: Population by race</li>
+<li><a href ='https://factfinder.census.gov/bkmk/table/1.0/en/ACS/15_5YR/B03002/0400000US11'>B03002</a>: Populaton hispanic or latino origin by race</li>
