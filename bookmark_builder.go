@@ -60,6 +60,15 @@ func check(e error) {
     }
 }
 
+func back_check(input string) bool{
+  if input == "-q"{
+    return true
+  } else {
+    return false
+  }
+}
+
+
 func quit_check(input string) bool{
   if input == "-q"{
     return true
