@@ -7,20 +7,22 @@ import io, requests
 
 
 def pull_variable_data(yr,msa,var,key):
-    metdiv_in_msa = "https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan statistical area/micropolitan statistical area:%s&key=%s"%(str(yr),str(var),str(msa),str(key))
+    metdiv_in_msa = "https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan division:*&in=metropolitan statistical area/micropolitan statistical area:%s&key=%s"%(str(yr),str(var),str(msa),str(key))
     d = requests.get(metdiv_in_msa)
-
-    d_json = d.json()
+ 
+    try: d_json = d.json()
+    except: d_json = {'null':'null'}
     d_list = []
     d_csv = []
     headers = []
     for i in range(len(d_json)):
-        d_list_val = [d_json[i][0],d_json[i][1],d_json[i][2]]
+        try:d_list_val = [d_json[i][0],d_json[i][1],d_json[i][2]]
+        except:d_list_val = 'null' + ',' + 'null'','+'null'
         d_list.append(d_list_val)
 
         if i > 0:
             try:d_list_csv = d_json[i][0] + ',' + d_json[i][1]+','+d_json[i][2]
-            except:'null'
+            except:d_list_csv = 'null' + ',' + 'null'','+'null'
             d_csv.append(d_list_val)
 
     df = pd.DataFrame(d_csv,columns=[d_json[0][0],d_json[0][1],d_json[0][2]])

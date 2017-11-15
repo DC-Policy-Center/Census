@@ -12,8 +12,12 @@ import io, requests
 def pull_variable_data(yr,msa,state,var,key):
     #base_tract ="http://api.census.gov/data/%s/acs5?get=NAME,%s&for=tract:*&in=combined%20statistical%20area:%s"%(str(yr),str(var),str(state))
     #base_state = "http://api.census.gov/data/%s/acs1?get=NAME,%s&for=state:%s"%(str(yr),str(var),str(state))
-    base_csa = "	https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan statistical area/micropolitan statistical area:%s&in=state:%s&key=%s"%(str(yr),str(var),str(msa),str(state),str(key))
+    #base_csa = "	https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan statistical area/micropolitan statistical area:%s&in=state:%s&key=%s"%(str(yr),str(var),str(msa),str(state),str(key))
+    #base_csa = "	https://api.census.gov/data/%s/acs5?get=NAME,%s&for=Metropolitan Division:%s&in=state:%s&key=%s"%(str(yr),str(var),str(msa),str(state),str(key))
     #base_csa = "	https://api.census.gov/data/%s/acs1?get=NAME,%s&for=place:*&in=state:%s&key=%s"%(str(yr),str(var),str(state),str(key))
+    
+    metdiv_in_msa = "https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan division:*&in=metropolitan statistical area/micropolitan statistical area:%s&key=%s"%(str(yr),str(var),str(state),str(key))
+    
     d = requests.get(base_csa)
 
     d_json = d.json()
@@ -44,7 +48,7 @@ census_key = census_key.rstrip('\n')
 msa_index = 0
 msa_dict = {
             'msa':
-                ['47894',
+                ['22744',
                  '33100'],
             'states':[
                     ['11','24','51'],
