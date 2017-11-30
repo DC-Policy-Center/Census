@@ -1,0 +1,1667 @@
+Time: 13:32:17,  message: Empty json on msa 10760, var B01001_001E
+Time: 13:35:52,  message: Empty json on msa 10760, var B01001_001E
+Time: 13:48:16,  message: Empty json on msa 10760, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:16,  message: Empty json on msa 10760, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:16,  message: Empty json on msa 10760, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:16,  message: Empty json on msa 10760, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:16,  message: Empty json on msa 10760, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:17,  message: Empty json on msa 10760, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:18,  message: Empty json on msa 10760, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:22,  message: Empty json on msa 10760, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:22,  message: Empty json on msa 10760, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:22,  message: Empty json on msa 10760, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:22,  message: Empty json on msa 10760, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:22,  message: Empty json on msa 10760, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:23,  message: Empty json on msa 10760, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:24,  message: Empty json on msa 10760, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:48:25,  message: Empty json on msa 10760, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:10760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:51,  message: Empty json on msa 12120, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:52,  message: Empty json on msa 12120, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:53,  message: Empty json on msa 12120, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:54,  message: Empty json on msa 12120, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:55,  message: Empty json on msa 12120, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:56,  message: Empty json on msa 12120, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:57,  message: Empty json on msa 12120, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:57,  message: Empty json on msa 12120, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:57,  message: Empty json on msa 12120, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:57,  message: Empty json on msa 12120, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:52:57,  message: Empty json on msa 12120, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:12120&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:30,  message: Empty json on msa 14300, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:30,  message: Empty json on msa 14300, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:31,  message: Empty json on msa 14300, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:32,  message: Empty json on msa 14300, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:33,  message: Empty json on msa 14300, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:34,  message: Empty json on msa 14300, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:34,  message: Empty json on msa 14300, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:34,  message: Empty json on msa 14300, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:34,  message: Empty json on msa 14300, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:34,  message: Empty json on msa 14300, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:35,  message: Empty json on msa 14300, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:36,  message: Empty json on msa 14300, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:36,  message: Empty json on msa 14300, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:36,  message: Empty json on msa 14300, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 13:59:36,  message: Empty json on msa 14300, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:14300&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:51,  message: Empty json on msa 15140, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:52,  message: Empty json on msa 15140, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:53,  message: Empty json on msa 15140, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:54,  message: Empty json on msa 15140, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:55,  message: Empty json on msa 15140, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:01:56,  message: Empty json on msa 15140, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:15140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:52,  message: Empty json on msa 16140, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:52,  message: Empty json on msa 16140, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:53,  message: Empty json on msa 16140, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:54,  message: Empty json on msa 16140, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:55,  message: Empty json on msa 16140, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:56,  message: Empty json on msa 16140, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:59,  message: Empty json on msa 16140, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:59,  message: Empty json on msa 16140, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:59,  message: Empty json on msa 16140, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:04:59,  message: Empty json on msa 16140, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:00,  message: Empty json on msa 16140, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:01,  message: Empty json on msa 16140, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:01,  message: Empty json on msa 16140, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:01,  message: Empty json on msa 16140, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:01,  message: Empty json on msa 16140, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:01,  message: Empty json on msa 16140, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:16140&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:55,  message: Empty json on msa 16420, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:56,  message: Empty json on msa 16420, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:57,  message: Empty json on msa 16420, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:57,  message: Empty json on msa 16420, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:57,  message: Empty json on msa 16420, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:57,  message: Empty json on msa 16420, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:57,  message: Empty json on msa 16420, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:58,  message: Empty json on msa 16420, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:05:59,  message: Empty json on msa 16420, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:00,  message: Empty json on msa 16420, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:00,  message: Empty json on msa 16420, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:00,  message: Empty json on msa 16420, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:00,  message: Empty json on msa 16420, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:00,  message: Empty json on msa 16420, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:01,  message: Empty json on msa 16420, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:01,  message: Empty json on msa 16420, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:06:01,  message: Empty json on msa 16420, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:16420&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:49,  message: Empty json on msa 21640, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:49,  message: Empty json on msa 21640, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:49,  message: Empty json on msa 21640, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:50,  message: Empty json on msa 21640, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:51,  message: Empty json on msa 21640, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:52,  message: Empty json on msa 21640, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:53,  message: Empty json on msa 21640, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:54,  message: Empty json on msa 21640, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:54,  message: Empty json on msa 21640, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:54,  message: Empty json on msa 21640, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:54,  message: Empty json on msa 21640, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:54,  message: Empty json on msa 21640, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:55,  message: Empty json on msa 21640, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:55,  message: Empty json on msa 21640, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:55,  message: Empty json on msa 21640, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:21:55,  message: Empty json on msa 21640, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:21640&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:41,  message: Empty json on msa 21860, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:42,  message: Empty json on msa 21860, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:43,  message: Empty json on msa 21860, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:44,  message: Empty json on msa 21860, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:44,  message: Empty json on msa 21860, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:44,  message: Empty json on msa 21860, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:44,  message: Empty json on msa 21860, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:44,  message: Empty json on msa 21860, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:45,  message: Empty json on msa 21860, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:22:46,  message: Empty json on msa 21860, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:21860&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:01,  message: Empty json on msa 22840, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:05,  message: Empty json on msa 22840, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:05,  message: Empty json on msa 22840, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:05,  message: Empty json on msa 22840, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:05,  message: Empty json on msa 22840, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:05,  message: Empty json on msa 22840, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:06,  message: Empty json on msa 22840, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:06,  message: Empty json on msa 22840, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:06,  message: Empty json on msa 22840, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:06,  message: Empty json on msa 22840, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:06,  message: Empty json on msa 22840, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:07,  message: Empty json on msa 22840, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:08,  message: Empty json on msa 22840, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:09,  message: Empty json on msa 22840, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:09,  message: Empty json on msa 22840, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:09,  message: Empty json on msa 22840, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:09,  message: Empty json on msa 22840, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:09,  message: Empty json on msa 22840, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:10,  message: Empty json on msa 22840, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:11,  message: Empty json on msa 22840, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:11,  message: Empty json on msa 22840, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:26:11,  message: Empty json on msa 22840, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:22840&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:10,  message: Empty json on msa 24330, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:10,  message: Empty json on msa 24330, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:10,  message: Empty json on msa 24330, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:11,  message: Empty json on msa 24330, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:12,  message: Empty json on msa 24330, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:13,  message: Empty json on msa 24330, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:14,  message: Empty json on msa 24330, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:14,  message: Empty json on msa 24330, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:14,  message: Empty json on msa 24330, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:14,  message: Empty json on msa 24330, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:15,  message: Empty json on msa 24330, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:15,  message: Empty json on msa 24330, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:15,  message: Empty json on msa 24330, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:15,  message: Empty json on msa 24330, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:15,  message: Empty json on msa 24330, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:16,  message: Empty json on msa 24330, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:16,  message: Empty json on msa 24330, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:16,  message: Empty json on msa 24330, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:16,  message: Empty json on msa 24330, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:16,  message: Empty json on msa 24330, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:30:17,  message: Empty json on msa 24330, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:24330&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:20,  message: Empty json on msa 26260, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:20,  message: Empty json on msa 26260, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:20,  message: Empty json on msa 26260, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:21,  message: Empty json on msa 26260, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:22,  message: Empty json on msa 26260, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:23,  message: Empty json on msa 26260, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:24,  message: Empty json on msa 26260, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:24,  message: Empty json on msa 26260, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:24,  message: Empty json on msa 26260, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:24,  message: Empty json on msa 26260, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:24,  message: Empty json on msa 26260, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:25,  message: Empty json on msa 26260, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:26,  message: Empty json on msa 26260, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:26,  message: Empty json on msa 26260, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:26,  message: Empty json on msa 26260, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:36:26,  message: Empty json on msa 26260, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:26260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:12,  message: Empty json on msa 27660, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:12,  message: Empty json on msa 27660, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:12,  message: Empty json on msa 27660, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:13,  message: Empty json on msa 27660, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:14,  message: Empty json on msa 27660, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:14,  message: Empty json on msa 27660, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:17,  message: Empty json on msa 27660, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:17,  message: Empty json on msa 27660, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:17,  message: Empty json on msa 27660, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:18,  message: Empty json on msa 27660, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:18,  message: Empty json on msa 27660, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:18,  message: Empty json on msa 27660, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:18,  message: Empty json on msa 27660, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:19,  message: Empty json on msa 27660, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:20,  message: Empty json on msa 27660, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 14:41:21,  message: Empty json on msa 27660, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:27660&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:30,  message: Empty json on msa 37800, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:30,  message: Empty json on msa 37800, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:30,  message: Empty json on msa 37800, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:30,  message: Empty json on msa 37800, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:31,  message: Empty json on msa 37800, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:35,  message: Empty json on msa 37800, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:35,  message: Empty json on msa 37800, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:35,  message: Empty json on msa 37800, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:35,  message: Empty json on msa 37800, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:35,  message: Empty json on msa 37800, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:36,  message: Empty json on msa 37800, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:37,  message: Empty json on msa 37800, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:38,  message: Empty json on msa 37800, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:39,  message: Empty json on msa 37800, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:39,  message: Empty json on msa 37800, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:39,  message: Empty json on msa 37800, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:12:39,  message: Empty json on msa 37800, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:37800&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:42,  message: Empty json on msa 40760, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:43,  message: Empty json on msa 40760, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:44,  message: Empty json on msa 40760, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:45,  message: Empty json on msa 40760, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:46,  message: Empty json on msa 40760, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:48,  message: Empty json on msa 40760, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:48,  message: Empty json on msa 40760, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:48,  message: Empty json on msa 40760, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:48,  message: Empty json on msa 40760, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:48,  message: Empty json on msa 40760, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:49,  message: Empty json on msa 40760, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:49,  message: Empty json on msa 40760, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:49,  message: Empty json on msa 40760, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:49,  message: Empty json on msa 40760, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:21:49,  message: Empty json on msa 40760, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:40760&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:17,  message: Empty json on msa 41260, var B01001_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B01001_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:18,  message: Empty json on msa 41260, var B02001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B02001_002E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:18,  message: Empty json on msa 41260, var B15003_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_017E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:18,  message: Empty json on msa 41260, var B15003_018E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_018E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:18,  message: Empty json on msa 41260, var B15003_019E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_019E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_020E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_020E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_021E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_021E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_022E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_022E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_024E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_024E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_023E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_023E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B15003_025E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B15003_025E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:19,  message: Empty json on msa 41260, var B08007_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B08007_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_002E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B08007_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_003E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B08007_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_005E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B08007_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B08007_004E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B17001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B17001_002E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B19001_002E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_002E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:20,  message: Empty json on msa 41260, var B19001_003E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_003E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_004E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_004E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_005E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_005E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_006E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_006E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_007E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_007E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_008E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_008E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:21,  message: Empty json on msa 41260, var B19001_009E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_009E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_010E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_010E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_011E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_011E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_012E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_012E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_013E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_013E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_014E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_014E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_015E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_015E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:22,  message: Empty json on msa 41260, var B19001_016E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_016E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:23,  message: Empty json on msa 41260, var B19001_017E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19001_017E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:23,  message: Empty json on msa 41260, var B19013_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:23,  message: Empty json on msa 41260, var B19013A_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013A_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:23,  message: Empty json on msa 41260, var B19013B_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013B_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
+Time: 15:23:23,  message: Empty json on msa 41260, var B19013I_001E
+	URL https://api.census.gov/data/2015/acs5?get=NAME,B19013I_001E&for=metropolitan statistical area/micropolitan statistical area:41260&key=cca3e6ac51a30e8e1ea2955594822fba87d94f96
+	Response Code: <Response [204]>
