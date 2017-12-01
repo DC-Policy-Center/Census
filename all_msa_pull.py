@@ -44,6 +44,7 @@ def pull_variable_data(yr,msa,var,key):
     df = pd.DataFrame(d_csv,columns=[d_json[0][0],d_json[0][1],d_json[0][2]])
     return df
 tic = time.clock()
+
 log_exception('Starting clock ...%s'%str(tic))
 var_list = pd.read_csv('variable_list.csv')
 #base_df = pull_variable_data(2015,'*','B01001_001E')
@@ -89,8 +90,10 @@ for msa in msa_list:
     j = 0
 
     if msa_index%10 == 0: 
-        time.sleep(10)
+        time.sleep(5)
         print('Currently processing MSA# %s out of %s\n'%(str(msa_index),str(len(msa_list))))
+   # if msa_index%100 == 0:
+    #    time.sleep(120)
     for j in range(len(var_list)):
         var = var_list['variable'][j]
         pulled_df = pull_variable_data(2015,msa,var,census_key)
