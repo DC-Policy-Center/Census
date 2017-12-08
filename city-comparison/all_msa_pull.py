@@ -8,8 +8,8 @@ import io, requests, time
 def log_exception(message):
     current_time = time.strftime("%H:%M:%S",time.localtime())
     with open('run_log.txt','a') as log_file:
-        log_file.write('Time: %s,  message: %s\n'%(current_time,message))   
-    
+        log_file.write('Time: %s,  message: %s\n'%(current_time,message))
+
 def empty_json(var):
     empty_json_variable = [[
             'NAME',
@@ -18,7 +18,25 @@ def empty_json(var):
             [str(msa), 'NULL', 'NULL']
             ]
     return(empty_json_variable)
-    
+
+def msa_and_state_dict(msa_string):
+    num_check = re.compile(r'[0-9]')
+    if num_check.search(str(msa_string)):
+        msa_dict = {msa_string:{'states':[],'area_type':'NA'}}
+    else:
+        comma_space_split = re.compile(r',\s')
+        dash_split = re.compile(r'-')
+        just_space_split = re.compile(r'\s')
+        first_msa_split = comma_space_split.split(msa_string)
+        msa_name = first_msa_split[0]
+        msa_states_combined_with_area = first_msa_split[len(first_msa_split)-1]
+        msa_states_combined = just_space_split.split(msa_states_combined_with_area,1)
+        msa_state_list = dash_split.split(msa_states_combined[0])
+        area_type = msa_states_combined[1]
+        msa_dict = {msa_name:{'states':msa_state_list,'area_type':area_type}}
+    return(msa_dict)
+
+
 def pull_variable_data(yr,msa,var,key):
     metdiv_in_msa = "https://api.census.gov/data/%s/acs5?get=NAME,%s&for=metropolitan statistical area/micropolitan statistical area:%s&key=%s"%(str(yr),str(var),str(msa),str(key))
     d = requests.get(metdiv_in_msa)
@@ -28,7 +46,7 @@ def pull_variable_data(yr,msa,var,key):
         d_json = d_empty
         message = 'Empty json on msa %s, var %s\n\tURL %s\n\tResponse Code: %s'%(msa,var,metdiv_in_msa,d)
         log_exception(message)
-        
+
     d_list = []
     d_csv = []
     headers = []
@@ -86,10 +104,10 @@ msa_list = [
 '''
 msa_index = 0
 for msa in msa_list:
-    
+
     j = 0
 
-    if msa_index%10 == 0: 
+    if msa_index%10 == 0:
         time.sleep(5)
         print('Currently processing MSA# %s out of %s\n'%(str(msa_index),str(len(msa_list))))
    # if msa_index%100 == 0:
@@ -113,7 +131,7 @@ for msa in msa_list:
     else:
         full_df = base_df
         msa_index +=1
-        
+
 toc = time.clock()
 log_exception('Ending clock ...%s'%str(toc))
 print('Time elapsed is: %s'%(str(toc-tic)))
