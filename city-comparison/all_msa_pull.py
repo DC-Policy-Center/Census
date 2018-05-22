@@ -70,12 +70,12 @@ new_headers = []
 initial_headers = ['NAME','metropolitan statistical area/micropolitan statistical area']
 for h in initial_headers:new_headers.append(h)
 for hh in list(var_list['name']): new_headers.append(hh)
-with open('census_key.txt','r') as key_file:
+with open('..\census_key.txt','r') as key_file:
     census_key = key_file.read()
 census_key = census_key.rstrip('\n')
 msa_dict = pd.read_csv('cbsa_list.csv')
-msa_list = msa_dict['CBSA']
-'''
+#msa_list = msa_dict['CBSA']
+
 msa_list = [
             47900,
             33100,
@@ -101,7 +101,7 @@ msa_list = [
             38300,
             38060
             ]
-'''
+
 msa_index = 0
 for msa in msa_list:
 
