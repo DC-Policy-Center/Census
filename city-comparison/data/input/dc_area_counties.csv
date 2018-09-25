@@ -1,0 +1,25 @@
+msa,msaCode,state,stateCode,county,countyCode
+DC area,47900,DC,11,DC,001
+,,MD,24,Calvert County,009
+,,MD,24,Charles County,017
+,,MD,24,Frederick County,021
+,,MD,24,Montgomery County,031
+,,MD,24,Prince George's County,033
+,,VA,51,Alexandria,510
+,,VA,51,Arlington County,013
+,,VA,51,Clarke County,043
+,,VA,51,Culpeper County,047
+,,VA,51,Fairfax County,059
+,,VA,51,Fairfax,600
+,,VA,51,Falls Church,610
+,,VA,51,Fauquier County,061
+,,VA,51,Fredericksburg,630
+,,VA,51,Loudoun County,107
+,,VA,51,Manassas,683
+,,VA,51,Manassas Park,685
+,,VA,51,Prince William County,153
+,,VA,51,Rappahannock County,157
+,,VA,51,Spotsylvania County,177
+,,VA,51,Stafford County,179
+,,VA,51,Warren County,187
+,,WV,54,Jefferson County,037
